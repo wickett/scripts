@@ -12,3 +12,8 @@ Fork It
 =======
 
 If you fork this and add some goodness, let me know with a Pull Request.  I would be happy to add back into it.
+
+Pairing script
+==============
+
+This script is sourced from https://gist.github.com/marksim/5785406 
