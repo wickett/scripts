@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+  - 1.9.3
+before_script:
+  - gem install cucumber
+  - gem install aruba
+notifications:
+  email:
+    recipients:
+      - james@gauntlt.org
+    on_success: always
+    on_failure: always
