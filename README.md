@@ -1,3 +1,5 @@
+[![Build Status](https://secure.travis-ci.org/wickett/scripts.png?branch=master)](http://travis-ci.org/wickett/scripts)
+
 About
 =====
 
